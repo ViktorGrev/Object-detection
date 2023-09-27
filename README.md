@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    ![Testing camera feature](./project_doc/AI%20object%20detection.png)
+    <img src="project_doc/AI%20object%20detection.png" alt="Testing camera feature" width="500" height="300">
   </p>
   <p>
     <a href="https://yolovision.ultralytics.com/" target="_blank">
