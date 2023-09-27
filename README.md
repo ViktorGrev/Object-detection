@@ -1,5 +1,8 @@
 <div align="center">
   <p>
+    ![Testing camera feature](./AI object detection.png)
+  </p>
+  <p>
     <a href="https://yolovision.ultralytics.com/" target="_blank">
       <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/im/banner-yolo-vision-2023.png"></a>
     <!--
